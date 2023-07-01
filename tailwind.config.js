@@ -13,11 +13,6 @@ export default {
       fontFamily: {
         jakarta: ['Plus Jakarta', 'sans-serif'],
       },
-      backgroundImage: {
-        'hero-pattern-mobile': "url('./assets/image-hero-mobile@2x.png')",
-        'hero-pattern-tablet': "url('./assets/image-hero-tablet.png')",
-        'hero-pattern-desktop': "url('./assets/image-hero-desktop.png')",
-      },
     },
   },
   plugins: [],
